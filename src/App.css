@@ -1,0 +1,8 @@
+.allPage {
+  width: 100vw;
+  height: 100vh;
+}
+.radius {
+  border: 1px solid black;
+  border-radius: 16px;
+}
